@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CruxSDK",
-            url: "https://github.com/crux-platform/crux-ios-sdk-release/releases/download/v1.2.1/CruxSDK-1.2.1.xcframework.zip",
-            checksum: "fb3afc13b20f60d909bf13b57a242529578b09dd1fee5e3a8306d0021e55914b"
+            url: "https://github.com/crux-platform/crux-ios-sdk-release/releases/download/v1.2.2/CruxSDK-1.2.2.xcframework.zip",
+            checksum: "715684e6a1c63a2876b19d0d56b26895cb5c580d1da2f96114b9ddf10b441130"
         )
     ]
 )
